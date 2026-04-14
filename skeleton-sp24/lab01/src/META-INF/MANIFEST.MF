@@ -1,0 +1,32 @@
+Manifest-Version: 1.0
+Main-Class: game2048rendering.Main
+Class-Path: picocli-4.7.0.jar jetty-server-9.4.48.v20220622.jar jh61b.ja
+ r slf4j-api-2.0.0.jar jetty-webapp-9.4.48.v20220622.jar asm-commons-9.4
+ .jar asm-9.1.jar hamcrest-core-1.3.jar opentest4j-1.2.0.jar checker-qua
+ l-3.13.0.jar websocket-api-9.4.48.v20220622.jar jcip-annotations-1.0.ja
+ r junit-platform-launcher-1.9.1.jar asm-tree-9.4.jar commons-collection
+ s-3.2.2.jar jsr305-3.0.2.jar junit-jupiter-5.9.1.jar bcel-6.5.0.jar fai
+ lureaccess-1.0.1.jar animated-gif-lib-1.4.jar pdfbox-2.0.24.jar slf4j-s
+ imple-2.0.6.jar jetty-http-9.4.48.v20220622.jar checker-compat-qual-2.5
+ .5.jar jetty-servlet-9.4.48.v20220622.jar reflections-0.10.2.jar log4j-
+ core-2.19.0.jar jama-1.0.3.jar jetty-security-9.4.48.v20220622.jar jett
+ y-util-9.4.48.v20220622.jar junit-jupiter-api-5.9.1.jar spotbugs-annota
+ tions-4.7.3.jar VectorGraphics2D-0.13.jar commons-lang3-3.12.0.jar apig
+ uardian-api-1.1.2.jar asm-util-9.4.jar proj2a.jar jetty-util-ajax-9.4.4
+ 8.v20220622.jar httpclient5-5.1.3.jar junit-platform-engine-1.9.1.jar d
+ om4j-2.1.3.jar junit-jupiter-engine-5.9.1.jar fontbox-2.0.24.jar gson-2
+ .10.jar spark-core-2.9.4.jar jetty-xml-9.4.48.v20220622.jar classmexer.
+ jar xchart-3.8.2.jar junit-vintage-engine-5.9.1.jar xmlresolver-4.4.3.j
+ ar Saxon-HE-11.4.jar jaxen-1.2.0.jar algs4.jar jetty-client-9.4.48.v202
+ 20622.jar checkstyle-10.5.0.jar junit-4.13.2.jar websocket-servlet-9.4.
+ 48.v20220622.jar junit-jupiter-params-5.9.1.jar websocket-common-9.4.48
+ .v20220622.jar antlr4-runtime-4.11.1.jar httpcore5-h2-5.1.3.jar jetty-i
+ o-9.4.48.v20220622.jar commons-text-1.10.0.jar commons-codec-1.15.jar l
+ og4j-api-2.19.0.jar ucb.jar httpcore5-5.1.3.jar javax.servlet-api-3.1.0
+ .jar jh61b-secureautograderrunner.jar j2objc-annotations-1.3.jar graphi
+ cs2d-0.33.jar asm-analysis-9.4.jar error_prone_annotations-2.7.1.jar ju
+ nit-platform-commons-1.9.1.jar javaparser-core-3.24.10.jar websocket-se
+ rver-9.4.48.v20220622.jar commons-beanutils-1.9.4.jar truth-1.1.3.jar a
+ uto-value-annotations-1.8.1.jar guava-30.1.1-android.jar websocket-clie
+ nt-9.4.48.v20220622.jar commons-logging-1.2.jar javassist-3.29.2-GA.jar
+
